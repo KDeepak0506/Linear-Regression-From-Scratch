@@ -12,11 +12,13 @@ What this project includes
 
 Datasets used
 
-1. Housing.csv  
+1. Housing.csv
+   - Source: https://www.kaggle.com/datasets/yasserh/housing-prices-dataset
    - Feature: Area of house  
    - Target: Price  
 
-2. advertising.csv  
+2. advertising.csv
+   - Source: https://www.kaggle.com/datasets/ashydv/advertising-dataset
    - Feature: TV advertisement budget  
    - Target: Sales  
 
